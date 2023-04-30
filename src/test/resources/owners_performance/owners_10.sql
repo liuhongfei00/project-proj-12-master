@@ -1,0 +1,10 @@
+insert into owners values (1, 'Walker', 'Halstead', '623 Bellgrove Lane', 'Santo Domingo Oeste', '674-909-0835');
+insert into owners values (2, 'Edouard', 'Simmans', '75 Eliot Drive', 'Areia Branca', '391-346-8556');
+insert into owners values (3, 'Ferdinanda', 'Milsted', '67607 Monument Way', 'Baykonyr', '686-751-8826');
+insert into owners values (4, 'Harlan', 'Pien', '37 Novick Hill', 'Paris 02', '924-441-3645');
+insert into owners values (5, 'Benjamin', 'Mattei', '1802 Buena Vista Avenue', 'Houxiang', '564-342-9181');
+insert into owners values (6, 'Taylor', 'Filtness', '56457 Florence Way', 'Naranjal', '188-873-5735');
+insert into owners values (7, 'Katrine', 'De Marchi', '050 Vidon Lane', 'Ketapang', '146-888-1869');
+insert into owners values (8, 'Shurlock', 'Johnson', '7 Kenwood Point', 'Butungan', '886-174-4123');
+insert into owners values (9, 'Hewett', 'Brydone', '744 Roxbury Terrace', 'Swiętajno', '532-720-1704');
+insert into owners values (10, 'Selby', 'Veld', '4 Fairfield Circle', 'Anuradhapura', '818-647-4314');

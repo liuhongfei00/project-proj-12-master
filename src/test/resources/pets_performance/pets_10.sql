@@ -1,0 +1,32 @@
+insert into owners values (1, 'Walker', 'Halstead', '623 Bellgrove Lane', 'Santo Domingo Oeste', '674-909-0835');
+insert into owners values (2, 'Edouard', 'Simmans', '75 Eliot Drive', 'Areia Branca', '391-346-8556');
+insert into owners values (3, 'Ferdinanda', 'Milsted', '67607 Monument Way', 'Baykonyr', '686-751-8826');
+insert into owners values (4, 'Harlan', 'Pien', '37 Novick Hill', 'Paris 02', '924-441-3645');
+insert into owners values (5, 'Benjamin', 'Mattei', '1802 Buena Vista Avenue', 'Houxiang', '564-342-9181');
+insert into owners values (6, 'Taylor', 'Filtness', '56457 Florence Way', 'Naranjal', '188-873-5735');
+insert into owners values (7, 'Katrine', 'De Marchi', '050 Vidon Lane', 'Ketapang', '146-888-1869');
+insert into owners values (8, 'Shurlock', 'Johnson', '7 Kenwood Point', 'Butungan', '886-174-4123');
+insert into owners values (9, 'Hewett', 'Brydone', '744 Roxbury Terrace', 'Swiętajno', '532-720-1704');
+insert into owners values (10, 'Selby', 'Veld', '4 Fairfield Circle', 'Anuradhapura', '818-647-4314');
+
+insert into types values (1, 'Peacock, blue');
+insert into types values (2, 'Nuthatch, red-breasted');
+insert into types values (3, 'Genet, common');
+insert into types values (4, 'Fox, grey');
+insert into types values (5, 'Gull, southern black-backed');
+insert into types values (6, 'Squirrel, golden-mantled ground');
+insert into types values (7, 'Kudu, greater');
+insert into types values (8, 'Jaguarundi');
+insert into types values (9, 'Wambenger, red-tailed');
+insert into types values (10, 'African jacana');
+
+insert into pets values (1, 'Hodge', '2009-01-08', 1, 5);
+insert into pets values (2, 'Laney', '2010-07-05', 9, 7);
+insert into pets values (3, 'Grata', '2007-09-08', 2, 2);
+insert into pets values (4, 'Leena', '2017-04-27', 8, 5);
+insert into pets values (5, 'Korney', '2008-09-20', 9, 4);
+insert into pets values (6, 'Hastings', '2014-07-15', 5, 7);
+insert into pets values (7, 'Melina', '2018-04-24', 2, 6);
+insert into pets values (8, 'Dael', '2009-03-26', 10, 9);
+insert into pets values (9, 'Charmain', '2013-11-26', 3, 4);
+insert into pets values (10, 'Ruy', '2013-07-30', 6, 6);
